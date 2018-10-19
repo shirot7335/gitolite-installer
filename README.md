@@ -1,5 +1,5 @@
 # gitolite-installer
-実行した環境で *git* ユーザを作成し, */home/git/* にgitolite を建てます.
+*git* ユーザを作成し, */home/git/* にgitolite を建てます.
 
 ## Usage
 
